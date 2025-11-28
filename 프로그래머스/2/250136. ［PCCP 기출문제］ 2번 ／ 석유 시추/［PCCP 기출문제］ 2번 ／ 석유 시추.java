@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     
-    // 아래, 오른쪽으로 이동
     int[] dx = {-1, 1, 0, 0};
     int[] dy = {0, 0, -1, 1};
     
